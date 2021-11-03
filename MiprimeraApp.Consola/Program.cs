@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace MiprimeraApp.Consola
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("hola mundo");
+
+
+
+
+        }
+    }
+}
